@@ -1,5 +1,7 @@
-### Hi there 👋
+# print('Hello world!!')
 
+I am passionate about technology and computers. I am a web and mobile developer. 
+I work with technologies like html, css, javascript, php, mysql, nodejs, mongodb, react, vue, flutter, laravel, ionic, python.
 <!--
 **cornegramm/cornegramm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
